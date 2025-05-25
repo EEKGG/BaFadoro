@@ -1,6 +1,6 @@
-Final Project Report
+#Final Project Report
 
-Introduction
+##Introduction
 
 This project aims to enhance time management and focus by implementing a modern Pomodoro Technique digital timer application. Designed especially for users facing intensive work or study schedules, the application helps optimize focus intervals and improve motivation. A user-friendly, visually modern, and functional desktop application has been developed as part of this project.
 
